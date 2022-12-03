@@ -3,3 +3,5 @@ Initialized empty Git repository in /home/simon/twitter/.git/
   Git keep the records of the old using git Commit ID 
 git init/status/add/commit/merge/rebase/branch/show
 Keep going. Its easy
+Keep laddering up
+Its not as bad as it looks

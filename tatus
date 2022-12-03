@@ -1,0 +1,65 @@
+[33mcommit 66aadbca199802ed2ee39c34dc9d0e987488fbf3[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Sat Dec 3 12:17:59 2022 -0500
+
+    deployment4
+
+[33mcommit 0c82c6e0108741f8d8588bb9de2d5c06ab91898c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Sat Dec 3 12:14:18 2022 -0500
+
+    dev envronment deployment
+
+[33mcommit b02993124a0814f953b6db54c4d87f8ed9d2c70c[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Sat Dec 3 09:57:31 2022 -0500
+
+    .gitignore file created
+
+[33mcommit b2abe8dc524a791f233a299128a60f2002d23036[m[33m ([m[1;31melon/master[m[33m)[m
+Author: Trippledipper <112042693+Trippledipper@users.noreply.github.com>
+Date:   Sat Dec 3 08:39:44 2022 -0600
+
+    Create monitor.app
+
+[33mcommit ccb645809d449c8e974e94e83ea6267f54f8c3d4[m
+Author: Trippledipper <112042693+Trippledipper@users.noreply.github.com>
+Date:   Sat Dec 3 08:37:43 2022 -0600
+
+    Update list.java
+
+[33mcommit 1c549db6d967ba29bc9337913f25d4fa2779f561[m
+Author: Trippledipper <112042693+Trippledipper@users.noreply.github.com>
+Date:   Sat Dec 3 08:13:34 2022 -0600
+
+    Update app.java
+
+[33mcommit 06e49f0ba743f1854f734572f0e0304e1954a288[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Sat Dec 3 09:04:41 2022 -0500
+
+    users list created
+
+[33mcommit 10b2680ce6ebbfd54de7c6b25d6c04924c437dd1[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Wed Nov 30 01:19:00 2022 -0500
+
+    New deployment
+
+[33mcommit d312dd4b05168ed7fb0dd7cd1b189202746cdb52[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Wed Nov 30 00:59:29 2022 -0500
+
+    second commit
+
+[33mcommit f1666c452500b2fdd7a7a40189501d11311efefd[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Wed Nov 30 00:28:05 2022 -0500
+
+    oba and db connection created
+
+[33mcommit 4de918d0ca9295fbe35a404593a04beac32137c2[m
+Author: Martin BMX <cloudwork2202@gmail.com>
+Date:   Tue Nov 29 19:06:11 2022 -0500
+
+    first commint
